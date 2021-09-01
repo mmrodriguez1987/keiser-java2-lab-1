@@ -1,5 +1,7 @@
-# keiser-java2-lab-1
-BMI Factor Calculator
+# JAVA PROGRAMMING 2 CLASS
+## LAB 1
+
+*BMI Factor Calculator*
 
 
 For this assignment, you will build a BMI calculator.
